@@ -13,11 +13,11 @@ predict.py         ← Dự đoán file ảnh ngoài
    các hyperparams: seed, epochs, batch_size, learning_rate,..
    địa chỉ folder chứa ảnh inference predict
    tên và số lượng loại bệnh phải trùng tên và thứ tự folder ảnh ví dụ:
-       Multi_class_Classification_TNK_Copy/
-        ├── Acute Otitis Media/
-        ├── Chronic Suppurative Otitis Media/
-        ├── Tympanoskleros/
-        └── Normal/
+       Multi_class_Classification_TNK_Copy
+        Acute Otitis Media
+        Chronic Suppurative Otitis Media
+        Tympanoskleros
+        Normal
    tên model 
 
    
